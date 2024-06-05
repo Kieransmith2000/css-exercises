@@ -1,0 +1,23 @@
+.first-style{ 
+    background-color: red; font-family: "Verdana", "Geneva", "Tahoma", "sans-serif"
+}
+
+#uni { 
+    color: blue; 
+    font-size: 36px;
+} 
+
+#two {  
+    background-color: greenyellow;
+     font-size: 24px;
+     font-weight: bold;
+
+} 
+
+
+.first-style.better{ 
+    font-size: 24px;
+}
+
+
+
