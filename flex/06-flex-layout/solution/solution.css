@@ -54,7 +54,14 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 16px;
+  padding: 16px; 
+  align-items: center;
+}
+
+.left-links, 
+.righ-links { 
+  list-style: none; 
+  
 }
 
 .footer {
